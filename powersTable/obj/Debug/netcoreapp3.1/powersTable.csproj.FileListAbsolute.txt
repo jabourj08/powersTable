@@ -1,0 +1,13 @@
+C:\Users\Josh\source\repos\powersTable\powersTable\bin\Debug\netcoreapp3.1\powersTable.exe
+C:\Users\Josh\source\repos\powersTable\powersTable\bin\Debug\netcoreapp3.1\powersTable.deps.json
+C:\Users\Josh\source\repos\powersTable\powersTable\bin\Debug\netcoreapp3.1\powersTable.runtimeconfig.json
+C:\Users\Josh\source\repos\powersTable\powersTable\bin\Debug\netcoreapp3.1\powersTable.runtimeconfig.dev.json
+C:\Users\Josh\source\repos\powersTable\powersTable\bin\Debug\netcoreapp3.1\powersTable.dll
+C:\Users\Josh\source\repos\powersTable\powersTable\bin\Debug\netcoreapp3.1\powersTable.pdb
+C:\Users\Josh\source\repos\powersTable\powersTable\obj\Debug\netcoreapp3.1\powersTable.csprojAssemblyReference.cache
+C:\Users\Josh\source\repos\powersTable\powersTable\obj\Debug\netcoreapp3.1\powersTable.AssemblyInfoInputs.cache
+C:\Users\Josh\source\repos\powersTable\powersTable\obj\Debug\netcoreapp3.1\powersTable.AssemblyInfo.cs
+C:\Users\Josh\source\repos\powersTable\powersTable\obj\Debug\netcoreapp3.1\powersTable.csproj.CoreCompileInputs.cache
+C:\Users\Josh\source\repos\powersTable\powersTable\obj\Debug\netcoreapp3.1\powersTable.dll
+C:\Users\Josh\source\repos\powersTable\powersTable\obj\Debug\netcoreapp3.1\powersTable.pdb
+C:\Users\Josh\source\repos\powersTable\powersTable\obj\Debug\netcoreapp3.1\powersTable.genruntimeconfig.cache
